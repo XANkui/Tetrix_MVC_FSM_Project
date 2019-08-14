@@ -18,3 +18,7 @@
                4）游戏界面有当前分数，最高分，游戏暂停
                
                5）游戏操作：左右方向键，实现移动 Shape；向上方向键，旋转 Shape； 向下方向键，加速下落 Shape
+               
+               
+This is Testing Image!
+![image](https://github.com/XANkui/Tetrix_MVC_FSM_Project/blob/master/ReadMeImagesManageFolder/M1000_001.jpg)
